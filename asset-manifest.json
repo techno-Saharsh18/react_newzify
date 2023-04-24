@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react_newzify/static/css/main.abd64e84.css",
+    "main.js": "/react_newzify/static/js/main.ef532d02.js",
+    "static/js/787.4c026eef.chunk.js": "/react_newzify/static/js/787.4c026eef.chunk.js",
+    "static/media/loading.gif": "/react_newzify/static/media/loading.0a2dcbd6a1f1623ba508.gif",
+    "index.html": "/react_newzify/index.html",
+    "main.abd64e84.css.map": "/react_newzify/static/css/main.abd64e84.css.map",
+    "main.ef532d02.js.map": "/react_newzify/static/js/main.ef532d02.js.map",
+    "787.4c026eef.chunk.js.map": "/react_newzify/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.ef532d02.js"
+  ]
+}
